@@ -1,6 +1,6 @@
 #!/usr/local/bin/python3
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Made by Yann Morin Charbonneau - Github : @yannmc
+# by Yann Morin Charbonneau - Github : @yannmc
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #Initialisation of a dictionary to store the file's informations
