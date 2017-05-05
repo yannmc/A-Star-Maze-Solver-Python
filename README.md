@@ -29,6 +29,8 @@ NWWWWWWSS //The path to go from start to finish
 
 When in doubt, the program will choose a case using UP, LEFT, RIGHT and DOWN priority.
 
+A folder within this project contains an example of a maze and its shortest path.
+
 # Goal behind the app :
   
 This project was a class assignment during my last semester in computer science. At first I did the whole thing in Javascript, as I usually do, but I then ran into issues. After the algorithms were coded I was unable to output the answer in a specific directory without running a server on the machine itself. 
