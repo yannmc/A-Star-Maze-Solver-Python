@@ -31,7 +31,11 @@ When in doubt, the program will choose a case using UP, LEFT, RIGHT and DOWN pri
 
 # Goal behind the app :
   
-This project was a class assignment during my last semester in computer science. At first I did the whole thing in Javascript, as I usually do, but I then ran into issues. Once the algorithm finished I was unable to output the answer in the same directory as the program without running a server on the machine itself. After some research I understood that Javascript wouldn't be safe if it was able to write files on your machine, as it is used in most websites today. As a work-around I decided to rewrite the whole thing in Python, which I really enjoyed doing.
+This project was a class assignment during my last semester in computer science. At first I did the whole thing in Javascript, as I usually do, but I then ran into issues. After the algorithms were coded I was unable to output the answer in a specific directory without running a server on the machine itself. 
+
+After some research I understood that Javascript wouldn't be safe if it was possible to write files on your machine, as it is used by most websites today. As a work-around I decided to rewrite the whole thing in Python, which I really enjoyed doing.
+
+Knowing that this is my first Python program, I suspect that it probably is far from perfect, but it sure is a good start.
  
 # Developer : 
 Yann Morin-Charbonneau @yannmc
